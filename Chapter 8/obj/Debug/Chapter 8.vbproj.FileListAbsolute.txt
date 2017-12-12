@@ -1,0 +1,28 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\bin\Debug\Chapter 8.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\bin\Debug\Chapter 8.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\bin\Debug\Chapter 8.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\bin\Debug\Chapter 8.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter_8.arrayPractice.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter_8.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter 8.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter 8.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter 8.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\Chapter 8\obj\Debug\Chapter 8.pdb
+C:\Users\rc131187\Desktop\VB\Chapter-8\Chapter 8\Chapter 8\bin\Debug\Chapter 8.exe.config
+C:\Users\rc131187\Desktop\VB\Chapter-8\Chapter 8\Chapter 8\obj\Debug\Chapter 8.exe
+C:\Users\rc131187\Desktop\VB\Chapter-8\Chapter 8\Chapter 8\obj\Debug\Chapter 8.xml
+C:\Users\rc131187\Desktop\VB\Chapter-8\Chapter 8\Chapter 8\obj\Debug\Chapter 8.pdb
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\bin\Debug\Chapter 8.exe.config
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter 8.exe
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter 8.xml
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter 8.pdb
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\bin\Debug\Chapter 8.exe
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\bin\Debug\Chapter 8.pdb
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\bin\Debug\Chapter 8.xml
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.arrayPractice.resources
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.Resources.resources
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.seatingChart.resources
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter 8.vbproj.GenerateResource.Cache
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.friendList.resources
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.friendsList2.resources
+C:\Users\rc131187\Desktop\VB\Chapter 8\Chapter 8\obj\Debug\Chapter_8.Menu.resources
